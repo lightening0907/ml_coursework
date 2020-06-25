@@ -11,3 +11,7 @@
 *.npy
 *.jpeg
 *.pyc
+*.mp3
+*.mp4
+*.mdii
+*.mat
